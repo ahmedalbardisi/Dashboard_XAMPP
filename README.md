@@ -200,7 +200,7 @@ composer.json
 بعد التأكد من تشغيل **Apache** من XAMPP، افتح المتصفح وانتقل إلى:
 
 ```text
-http://localhost/dashboard/
+http://localhost/
 ```
 
 ستظهر لك لوحة التحكم بدلًا من صفحة XAMPP Dashboard الافتراضية.
